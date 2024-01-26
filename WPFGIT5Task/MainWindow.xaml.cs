@@ -20,5 +20,10 @@ namespace WPFGIT5Task
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Обработка события");
+        }
     }
 }
