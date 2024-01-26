@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="WindowNEW" Height="450" Width="800">
     <Grid>
-        
+        <TextBlock Margin="0,0,10,199">
+            
+        </TextBlock>
+        <Button Margin="103,260,103,28">
+            
+        </Button>
     </Grid>
 </Window>
